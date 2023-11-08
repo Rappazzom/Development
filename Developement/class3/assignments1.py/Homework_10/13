@@ -1,0 +1,27 @@
+'''
+    - Comment your code 
+        +5
+    - Assign meaningful variable names 
+        +5
+    - Output a print statement, "The perimeter of your triangle is..." 
+        +5
+    - The test case for your program is side # 1 is 5, the base is 6, side # 2 is 10 
+        +5
+    - Output a print statement, "Is side 1 greater than side 2?" 
+        +5
+    - Output a print statement, "Is the base equal to side 1?"
+        +5
+'''
+
+# Perimeter of a Triangle
+# Perimeter = side a + side b + base
+side_1 = 4 # assigning variable to side_1
+side_2 = 10 # assigning variable to side_2
+base = 6 # assigning variable to base
+perimeter = side_1 + side_2 + base #Formula to get perimeter
+print("The perimeter of your triangle is", perimeter) # this prints the perimeter of a triangle
+
+print('Is side a greater than side 2, the answer is', side_1>side_2) # this tells you if side a is greater than side 2
+
+print('Is the base equal to side 1, the answer is', base==side_1) # this tells you if the base is equal to side 1
+

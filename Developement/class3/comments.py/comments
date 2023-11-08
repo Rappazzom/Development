@@ -1,0 +1,7 @@
+# Standard single line commment with a hash
+
+size = 3.5 # size of the widget
+
+a=5
+b=10
+c='zoo'
